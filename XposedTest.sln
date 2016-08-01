@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XposedTest", "XposedTest\XposedTest.csproj", "{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XposedBridge", "XposedBridge\XposedBridge.csproj", "{96E1FA84-EC03-45D0-B835-72F42D4A07F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B55309-ACAB-45DC-8B2D-4E5F54BA75C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{96E1FA84-EC03-45D0-B835-72F42D4A07F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E1FA84-EC03-45D0-B835-72F42D4A07F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E1FA84-EC03-45D0-B835-72F42D4A07F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E1FA84-EC03-45D0-B835-72F42D4A07F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
