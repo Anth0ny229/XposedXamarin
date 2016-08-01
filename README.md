@@ -32,3 +32,9 @@ works fine
 
 XposedBridge.jar shouldn't really be included, it should be in path system\framework\XposedBridge.jar but if it takes being included to work then that's okay for now
 api-82.jar is just stubs and api-82-sources.jar is the actually source classes but they should be just to generate the bindings.
+
+
+
+http://api.xposed.info/reference/packages.html
+https://github.com/rovo89/XposedBridge/wiki/Using-the-Xposed-Framework-API
+https://github.com/rovo89/XposedBridge/wiki/Development-tutorial

@@ -51,7 +51,7 @@
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedNativeLibrary Include="Jars\XposedBridge.jar" />
+    <EmbeddedJar Include="Jars\XposedBridge.jar" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Jars\api-82-sources.jar" />
